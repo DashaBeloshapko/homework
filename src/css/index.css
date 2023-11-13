@@ -61,13 +61,11 @@ header {
     margin-left: 30px;
 }
 .banner {
-    background-image: url(../img/bg.png);
+    background-image: url(../img/image.png);
     width: 1510px;
     height: 442px;
     background-size: cover;
     border: none;
-}
-.banner {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -82,6 +80,7 @@ header {
     align-items: center;
     justify-content: center;
     margin: 50px 0 0 0;
+    line-height: 42.26px;
 }
 .banner__separator {
     border-bottom: 1px solid #FFFFFF;
